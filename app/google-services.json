@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370105280639",
+    "project_id": "herbal-c3529",
+    "storage_bucket": "herbal-c3529.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370105280639:android:1bd225ba67557456c7374a",
+        "android_client_info": {
+          "package_name": "com.akacaraka.herbal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43dde-wiWaZ1Vzj73ZeYj2rX6KTVox0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
